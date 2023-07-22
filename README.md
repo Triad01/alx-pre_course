@@ -1,1 +1,1 @@
-This is an updaed version of my first readme
+This is an updated version of my first readme.md file
